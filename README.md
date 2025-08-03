@@ -1,8 +1,4 @@
-```rust
-fn main() {
-  println!("Hi there!");
-}
-```
+<h1 align="center">Hi there!</h1>
 <!--
 **d4buggr/d4buggr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
