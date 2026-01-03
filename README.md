@@ -20,7 +20,7 @@ Here are some of the technologies and languages I'm familiar with and love worki
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk">
   <img alt="Static Badge" src="https://img.shields.io/badge/Luau-darkblue?style=for-the-badge&logo=luau">
   <img alt="Static Badge" src="https://img.shields.io/badge/Rust-brown?style=for-the-badge&logo=rust">
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  <img alt="Static Badge" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 </div>
 
 ---
